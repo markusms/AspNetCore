@@ -1,0 +1,10 @@
+﻿@page
+@model GameWebApi3.Shared.ErrorModel
+@{
+    Exception ex = ViewData["TooLowLevelException"] as Exception;
+}
+
+
+<h1>@ex.Message</h1>
+
+<div>@ex.StackTrace</div>

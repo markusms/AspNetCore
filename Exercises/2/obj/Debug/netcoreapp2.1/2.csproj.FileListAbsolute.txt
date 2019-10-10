@@ -1,0 +1,11 @@
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\bin\Debug\netcoreapp2.1\2.deps.json
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\bin\Debug\netcoreapp2.1\2.runtimeconfig.json
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\bin\Debug\netcoreapp2.1\2.runtimeconfig.dev.json
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\bin\Debug\netcoreapp2.1\2.dll
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\bin\Debug\netcoreapp2.1\2.pdb
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\obj\Debug\netcoreapp2.1\2.csprojAssemblyReference.cache
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\obj\Debug\netcoreapp2.1\2.csproj.CoreCompileInputs.cache
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\obj\Debug\netcoreapp2.1\2.AssemblyInfoInputs.cache
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\obj\Debug\netcoreapp2.1\2.AssemblyInfo.cs
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\obj\Debug\netcoreapp2.1\2.dll
+C:\Users\marku\OneDrive\Metropolia\3 vuosi\1 periodi\Taustajärjestelmät\Tehtävät\2\obj\Debug\netcoreapp2.1\2.pdb
